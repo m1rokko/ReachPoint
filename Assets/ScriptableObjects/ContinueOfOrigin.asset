@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 550e26f84c06a0045984ec2d5d1120e6, type: 3}
+  m_Name: ContinueOfOrigin
+  m_EditorClassIdentifier: 
+  mapIndex: 1
+  mapName: Continue of Origin
+  mapImage: {fileID: 21300000, guid: 872a8246bc346ae4bba7df4d59e306cb, type: 3}
+  sceneLoad: {fileID: 102900000, guid: 96ace6fcdbf37274ea9bb0808121dab4, type: 3}
